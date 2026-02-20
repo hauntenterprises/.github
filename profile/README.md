@@ -22,8 +22,6 @@ a clean, production-grade discord bot. slash commands, ai integration, last.fm, 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![discord.py](https://img.shields.io/badge/-discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Last.fm](https://img.shields.io/badge/-Last.fm-D51007?style=flat-square&logo=last.fm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
