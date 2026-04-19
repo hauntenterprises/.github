@@ -1,8 +1,11 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/hauntenterprises/.github/main/assets/hauntie.png" alt="Hauntie" width="140" />
-
-  # Hauntie.
+  <table border="0">
+    <tr>
+      <td><img src="assets/hauntie.png" alt="Hauntie" width="100" /></td>
+      <td><h1>Hauntie.</h1></td>
+    </tr>
+  </table>
 
   built by [Haunt Enterprises](https://github.com/hauntenterprises)
 
